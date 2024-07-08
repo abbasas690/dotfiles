@@ -37,6 +37,7 @@ alias v='nvim'
 alias q='exit'
 alias c='clear'
 alias z='zathura'
+alias python="python3"
 #config files
 alias zrc='nvim ~/.zshrc'
 alias nrc='cd ~/.config/nvim/'
